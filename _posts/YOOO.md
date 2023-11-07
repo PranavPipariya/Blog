@@ -1,0 +1,1 @@
+Yooo chekc this where i say random shit 
