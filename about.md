@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Yoo check out this video of [Mike Tyson's knockouts](https://www.youtube.com/watch?v=I8Vk4CnupEY)
 
-You can find the source code for Minima at GitHub:
+Jekyll source code:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
